@@ -1,12 +1,12 @@
 {
   "botConfig": {
-    "name": "NexusBot",
+    "name": "AlexBot",
     "version": "1.2.0",
-    "prefix": "!",
+    "prefix": "/",
     "language": "en",
     "timezone": "UTC",
     "logLevel": "info",
-    "owner": "100036117980682",
+    "owner": "100085861488156",
     "admins": []
   },
   "systemConfig": {
@@ -91,7 +91,7 @@
     },
     "github": {
       "enabled": false,
-      "owner": "Nexus-016",
+      "owner": "Alex",
       "repo": "Nexus-Bot",
       "branch": "main",
       "token": "",
