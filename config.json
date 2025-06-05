@@ -91,7 +91,7 @@
     },
     "github": {
       "enabled": false,
-      "owner": "Alex",
+      "owner": "Nexus-016",
       "repo": "Nexus-Bot",
       "branch": "main",
       "token": "",
